@@ -1,3 +1,7 @@
 streamlit
-ollama
 requests
+transformers==5.6.0
+accelerate==1.13.0
+--index-url https://download.pytorch.org/whl/cpu
+torch==2.11.0+cpu
+
